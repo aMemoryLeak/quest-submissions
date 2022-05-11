@@ -13,14 +13,14 @@ when it gets created.
 of the blockchain.
 
 ## Chapter 1 Day 2 Quest
-1. The Five Pillars are:
+The Five Pillars are:
   1. Safety and Security
   2. Clarity
   3. Approachability
   4. Developer Experience
   5. Resource Oriented Programming
 
-2. 
+
 - Safety and security are important because you want the foundation of the blockchain you are working on to be consistent and
 stable. Meaning the code in production works day in and day out without having to worry about breaking changes from the
 infrastructure. 
