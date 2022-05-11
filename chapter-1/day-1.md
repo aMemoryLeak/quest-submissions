@@ -10,4 +10,5 @@ when it gets created.
 3. Running a script is free and returns/reads the state of the blockchain. A transaction is not free and modifies the state
 of the blockchain.
 
-[Go Back](README.md)
+:arrow_backward: [Go Back](README.md)
+
