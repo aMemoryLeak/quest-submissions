@@ -16,4 +16,4 @@ syntax a developer should be able to understand what the code is doing, not nece
 cadence language server on VS Code on Ubuntu, the Cadence Playground is a great way to get started.
 - Developer experience is directly proportional to how much you want to keep using that language. Lisp peeps, don't @ me.
 
-[Go Back](README.md)
+:arrow_backward: [Go Back](README.md)
