@@ -3,10 +3,10 @@ This repo is meant to follow along with the Emerald Academy - BCB (May 2022) Wor
 
 # quest-submissions
 - [x] [Chapter 1](chapter-1/README.md)
-- [ ] [Chapter 2](chapter-2/README.md) - WIP
-- [ ] [Chapter 3](chapter-3.md)
-- [ ] [Chapter 4](chapter-4.md)
-- [ ] [Chapter 5](chapter-5.md)
+- [x] [Chapter 2](chapter-2/README.md)
+- [ ] [Chapter 3](chapter-3/README.md) - WIP
+- [ ] [Chapter 4]
+- [ ] [Chapter 5]
 
 ## Flow resources to help you get started
 - :bouncing_ball_person: [Flow Playgound](https://play.onflow.org)
