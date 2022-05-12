@@ -1,4 +1,4 @@
-This repo is meant to follow along with the Emerald Academy - BCB (May 2022) Workshop
+This repo is meant to follow along with the Emerald Academy - BCB (May 2022) Workshop Series
 - :star: For more information check out [Emerald Academy](https://academy.ecdao.org/)
 
 # quest-submissions
