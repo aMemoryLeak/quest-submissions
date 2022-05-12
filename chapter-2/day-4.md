@@ -1,5 +1,5 @@
 ## Chapter 2 Day 4 Quest
-1.
+1. Contract with Struct (Now 88% more organic!)
 ```cadence
 pub contract Cameras {
     
