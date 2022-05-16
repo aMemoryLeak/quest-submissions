@@ -12,6 +12,25 @@
 
 - Resources cannot be created outside of contracts and result in an error in a script and transaction.
 
+- The resource is of type ```Jacob```
 
+- "ISpied"
+```cadence
+pub contract Test {
+
+
+    pub resource Jacob {
+        pub let rocks: Bool
+        init() {
+            self.rocks = true
+        }
+    }
+
+    pub fun createJacob(): @Jacob { // there was 1 here
+        let myJacob <- create Jacob() // there were 2 here
+        return <- myJacob // there was 1 here
+    }
+}
+```
 
 :arrow_backward: [Go Back](README.md)
